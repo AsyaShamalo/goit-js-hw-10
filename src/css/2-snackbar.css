@@ -14,7 +14,7 @@ button {
   margin-top: 20px;
 }
 
-.delay {
+.delay-label {
   display: flex;
   flex-direction: column;
   margin-bottom: 16px;
@@ -22,7 +22,7 @@ button {
   gap: 8px;
 }
 
-.delay input {
+.delay-label input {
   border: 1px solid #808080;
   border-radius: 4px;
   width: 328px;
@@ -43,16 +43,16 @@ button {
   margin-bottom: 24px;
 }
 
-.not-btn {
+.notif-btn {
   border: transparent;
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 150%;
-  letter-spacing: 0.04em;
-  color: #fff;
   border-radius: 8px;
   padding: 8px 16px;
   width: 360px;
   height: 40px;
   background: #4e75ff;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.04em;
+  color: #fff;
 }
