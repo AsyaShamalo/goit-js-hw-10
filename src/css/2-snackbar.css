@@ -14,7 +14,7 @@ button {
   margin-top: 20px;
 }
 
-.delay-label {
+.delay {
   display: flex;
   flex-direction: column;
   margin-bottom: 16px;
@@ -22,7 +22,7 @@ button {
   gap: 8px;
 }
 
-.delay-label input {
+.delay input {
   border: 1px solid #808080;
   border-radius: 4px;
   width: 328px;
